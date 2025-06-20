@@ -1,5 +1,5 @@
 
-# Cryptocurrency price tracker
+# CryptoPriceTracker
 
 This project project leverages market data API from [Coin Gecko ](''https://coingecko.com/') to display market prices of several crypto assets. 
 
