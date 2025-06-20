@@ -8,7 +8,7 @@ This project project leverages market data API from [Coin Gecko ](''https://coin
 ### Clone this repo
 
 ```bash
-git clone https://github.com/ezratechdev/Crypto.git
+https://github.com/ezratechdev/CryptoPriceTracker.git
 ```
 
 ### Install dependencies
